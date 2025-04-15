@@ -11,7 +11,7 @@ Proficient in multiple languages & frameworks with a track record of optimizing 
 Adept at picking up new languages and learning on the job.
 
 * 🌍  Based in Austin, TX
-* 🖥️  See my personal website [here](http://isaacwwkelly.dev)
+* 🖥️  See my personal website and resume [here](http://isaacwwkelly.dev)
 * ✉️  You can contact me at [isaacwwkelly@gmail.com](mailto:isaacwwkelly@gmail.com)
 * 🚀  I'm currently working on securing a full-time SWE II role. Please reach out if you have an open role in mind!
 
